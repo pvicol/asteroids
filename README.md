@@ -32,3 +32,4 @@ Add a shield power-up
 Add a speed power-up
 Add bombs that can be dropped
 Add unit tests
+Add a game over screen
